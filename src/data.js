@@ -25,7 +25,7 @@ export const services = [
   { id: 'microagulhamento-pacote', title: 'Pacote de microagulhamento', subtitle: 'Pacote de cuidados', category: 'Estética facial', price: 72000, unit: '/ pacote', image: 'tratamento-facial.png', imagePosition: 'center 55%', description: 'Uma opção de pacote do catálogo. Quantidade de sessões e condições a confirmar com o studio.', badge: 'Pacote' },
   { id: 'peeling-400', title: 'Peeling', subtitle: 'Opção de R$ 400,00', category: 'Estética facial', price: 40000, image: 'cuidado-facial.png', imagePosition: 'center 60%', description: 'Outra opção de peeling do catálogo. A profissional orienta qual protocolo faz sentido para você.' },
   { id: 'injetavel', title: 'Aplicação de injetável para dor', subtitle: 'Atendimento individual', category: 'Fisioterapia e dor', price: 40000, image: 'juliana-acolhimento.png', imagePosition: 'center 52%', description: 'Informações e indicação do procedimento são tratadas diretamente com a profissional na avaliação.' },
-  { id: 'injetaveis-pacote', title: 'Injetáveis para dor · 3 sessões', subtitle: 'Pacote com 3 sessões', category: 'Fisioterapia e dor', price: 90000, unit: '/ pacote', image: 'juliana-acolhimento.png', imagePosition: 'center 52%', description: 'Pacote de aplicações conforme o catálogo. Indicação e organização das sessões a confirmar.', badge: '3 sessões' },
+  { id: 'injetaveis-pacote', title: 'Injetáveis para dor · 3 sessões', subtitle: 'Pacote com 3 sessões', category: 'Fisioterapia e dor', price: 90000, unit: '/ pacote', image: 'tratamento-facial.png', imagePosition: 'center 52%', description: 'Pacote de aplicações conforme o catálogo. Indicação e organização das sessões a confirmar.', badge: '3 sessões' },
 ];
 
 export const questions = [
